@@ -1,0 +1,110 @@
+# .NET and C#
+bin/
+obj/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.nupkg
+*.cache
+*.csproj.user
+*.vbproj.user
+*.swp
+*.swo
+*.dll
+*.exe
+*.pdb
+*.olb
+*.tlb
+*.obj
+*.lib
+*.vspscc
+*.vssscc
+*.ilk
+*.aps
+*.pch
+*.vs
+*.vscode
+*.njsproj
+*.sln
+*.swp
+*.swo
+*.sln.docstates
+*.userprefs
+packages/
+TestResults/
+*.ncrunch*
+*.crunch*.local.xml
+nCrunchTemp_*
+*.xproj.user
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.moq.reflector
+*.AutoSave.cs
+
+# Visual Studio specific
+*.ncb
+*.sdf
+*.opensdf
+*.sbr
+ipch/
+*.tlog
+*.log
+*.bak
+*.cache
+*.vspscc
+*.vssscc
+*.ilk
+*.aps
+*.pch
+*.vs
+*.vscode
+*.njsproj
+*.sln
+*.swp
+*.swo
+*.sln.docstates
+*.userprefs
+
+# Visual Studio Code specific
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# OS specific
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+.dbf
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Linux
+*~
+
+# Rider
+.idea/
+*.sln.iml
+
+# Others
+*.log
+*.sql
+*.sqlite
+
